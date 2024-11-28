@@ -1,0 +1,12 @@
+.sidebar img{
+    width: 20px;
+}
+
+.recent-entry:hover
+{
+    background-color: rgb(214, 214, 214);
+}
+.bottom-items{
+    padding-right: 10px;
+    cursor: pointer;
+}
