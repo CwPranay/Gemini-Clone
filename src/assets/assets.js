@@ -15,6 +15,8 @@ import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
 import pranay from './pranay.jpg'
 
+
+
 export const assets = {
     history_icon,
     menu_icon,
@@ -33,3 +35,6 @@ export const assets = {
     gemini_icon,
     pranay
 }
+
+// If you still want default too (optional)
+export default assets

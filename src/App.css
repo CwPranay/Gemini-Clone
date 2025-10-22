@@ -1,0 +1,13 @@
+/* App Container */
+#root {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+  #root {
+    flex-direction: column;
+  }
+}
